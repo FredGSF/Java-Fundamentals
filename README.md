@@ -2,7 +2,7 @@
 
 - Keywords  
 - Identifiers   
-- Data Types     
+- Data Types      
 - Variables    
 - Literals    
 - Operators  
