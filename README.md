@@ -3,7 +3,7 @@
 - Keywords  
 - Identifiers    
 - Data Types       
-- Variables      
+- Variables       
 - Literals      
 - Operators  
    
