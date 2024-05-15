@@ -4,7 +4,7 @@
 - Identifiers        
 - Data Types        
 - Variables            
-- Literals          
+- Literals           
 - Operators     
    
  
