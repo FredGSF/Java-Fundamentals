@@ -1,7 +1,7 @@
 # Java Fundamentals
    
 - Keywords    
-- Identifiers          
+- Identifiers           
 - Data Types        
 - Variables              
 - Literals           
