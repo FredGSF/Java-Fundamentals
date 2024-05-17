@@ -1,6 +1,6 @@
 # Java Fundamentals
    
-- Keywords      
+- Keywords
 - Identifiers
 - Data Types   
 - Variables
