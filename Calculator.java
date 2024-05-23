@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main { 
 	public static void main(String[] args) {
-	    
+	     
     	char operator;
         double num1, num2, result;
         
