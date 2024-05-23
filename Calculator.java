@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 	     
     	char operator;
-        double num1, num2, result;
+        double num1, num2, result; 
         
         // Create an object of Scanner Class
         Scanner input = new Scanner(System.in);
