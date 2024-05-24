@@ -11,7 +11,7 @@ public class DaysCalculator {
         System.out.print("Enter the first date (yyyy-MM-dd): ");  
         String dateString1 = scanner.nextLine();
         LocalDate date1 = LocalDate.parse(dateString1, DateTimeFormatter.ISO_LOCAL_DATE); 
-
+ 
         // Prompt the user to enter the second date
         System.out.print("Enter the second date (yyyy-MM-dd): ");
         String dateString2 = scanner.nextLine();
