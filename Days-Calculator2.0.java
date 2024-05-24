@@ -3,7 +3,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 import java.util.Scanner;
 
-public class DaysCalculator {
+public class DaysCalculator { 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
