@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class DaysCalculator { 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in); 
 
         // Prompt the user to enter the first date 
         System.out.print("Enter the first date (yyyy-MM-dd): ");
